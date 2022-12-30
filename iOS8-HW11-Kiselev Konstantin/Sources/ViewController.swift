@@ -9,12 +9,24 @@ import UIKit
 import SnapKit
 
 class ViewController: UIViewController {
+    
+    // MARK: - UI Elements
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+    
+    // MARK: - LifeCycle
+    
+    // MARK: - Setup
+    
+    private func setupView() {
+        view.backgroundColor = .systemCyan
+    }
+    
+    // MARK: - Action
 
 }
 
+// MARK: - Extensions
