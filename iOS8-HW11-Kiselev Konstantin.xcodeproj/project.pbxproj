@@ -56,10 +56,15 @@
 		B5530BE1295EE71900CB6AA1 /* iOS8-HW11-Kiselev Konstantin */ = {
 			isa = PBXGroup;
 			children = (
-				B5530BE2295EE71900CB6AA1 /* AppDelegate.swift */,
-				B5530BE4295EE71900CB6AA1 /* SceneDelegate.swift */,
-				B5530BE6295EE71900CB6AA1 /* ViewController.swift */,
-				B5530BE8295EE71900CB6AA1 /* Main.storyboard */,
+				B5530BF6295EE74500CB6AA1 /* Resources */,
+				B5530BF7295EE75900CB6AA1 /* Sources */,
+			);
+			path = "iOS8-HW11-Kiselev Konstantin";
+			sourceTree = "<group>";
+		};
+		B5530BF6295EE74500CB6AA1 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
 				B5530BEB295EE71A00CB6AA1 /* Assets.xcassets */,
 				B5530BED295EE71A00CB6AA1 /* LaunchScreen.storyboard */,
 				B5530BF0295EE71A00CB6AA1 /* Info.plist */,
